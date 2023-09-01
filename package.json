@@ -1,5 +1,5 @@
 {
-  "name": "@harumoon/eslint-config",
+  "name": "eslint-config-harumoon",
   "version": "1.0.0",
   "description": "ESLint configuration used by Harumoon",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "clever-junior/eslint-config"
+    "url": "clever-junior/eslint-config-harumoon"
   },
   "peerDependenciesMeta": {
     "typescript": {
